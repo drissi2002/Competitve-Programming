@@ -11,7 +11,7 @@ This repository will contains templates, algorithms and data structures implemen
 - [Catalan.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Catalan.cpp)
 - [Longest-Increasing-Subsequence.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Longest-Increasing-Subsequence.cpp)
 - [Longest-common-subsequence.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Longest-common-subsequence.cpp)
--[Edit-distance.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Edit-distance.cpp)
+- [Edit-distance.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Edit-distance.cpp)
 
 ## Graph <a name="graph"></a>
 
