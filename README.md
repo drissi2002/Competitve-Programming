@@ -12,7 +12,8 @@ This repository will contains templates, algorithms and data structures implemen
 - [Longest-Increasing-Subsequence.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Longest-Increasing-Subsequence.cpp)
 - [Longest-common-subsequence.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Longest-common-subsequence.cpp)
 - [Edit-distance.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Edit-distance.cpp)
-- [0 - 1 Knapsack Problem](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Edit-0%20-%201%20Knapsack%20Problem.cpp)
+- [0 - 1 Knapsack-Problem.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Edit-0%20-%201%20Knapsack%20Problem.cpp)
+- [Partition-Equal-Subset-Sum.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Partition-Equal-Subset-Sum.cpp)
 ## Graph <a name="graph"></a>
 
 - [Adjacency-List.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/Adjacency-List.cpp)
