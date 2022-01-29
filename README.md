@@ -14,6 +14,8 @@ This repository will contains templates, algorithms and data structures implemen
 - [Edit-distance.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Edit-distance.cpp)
 - [0 - 1 Knapsack-Problem.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Edit-0%20-%201%20Knapsack%20Problem.cpp)
 - [Partition-Equal-Subset-Sum.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Partition-Equal-Subset-Sum.cpp)
+- [Rod-Cutting.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Rod-Cutting.cpp)
+- [Coin-Change.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Coin-Change.cpp)
 ## Graph <a name="graph"></a>
 
 - [Adjacency-List.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/Adjacency-List.cpp)
