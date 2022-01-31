@@ -16,7 +16,7 @@ This repository will contains templates, algorithms and data structures implemen
 - [Partition-Equal-Subset-Sum.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Partition-Equal-Subset-Sum.cpp)
 - [Rod-Cutting.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Rod-Cutting.cpp)
 - [Coin-Change.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Coin-Change.cpp)
-- [Coin-Change.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Word-Break.cpp)
+- [Word-Break.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Word-Break.cpp)
 
 ## Graph <a name="graph"></a>
 
