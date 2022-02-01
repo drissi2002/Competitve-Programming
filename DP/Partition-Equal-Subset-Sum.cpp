@@ -19,7 +19,7 @@ int equalPartition(int N, int arr[])
                 if (i == 0)
                 {
                     if (j == total/2)
-                        dp[i][i] = 1;
+                        dp[i][j] = 1;
                     else
                         dp[i][j] = 0;
                 }
