@@ -17,6 +17,9 @@ This repository will contains templates, algorithms and data structures implemen
 - [Rod-Cutting.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Rod-Cutting.cpp)
 - [Coin-Change.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Coin-Change.cpp)
 - [Word-Break.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Word-Break.cpp)
+- [Distinct-subsequences--Distinct-occurrences.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Distinct-subsequences--Distinct-occurrences.cpp)
+- [Minimum-sum-partition.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Minimum-sum-partition.cpp)
+
 
 ## Graph <a name="graph"></a>
 
