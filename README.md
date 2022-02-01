@@ -1,6 +1,6 @@
 # Competitive Programming 
 
-This repository will contains templates, algorithms and data structures implemented and collected for programming contests & self-learning . Most of them are at least used once to check correctness, still it is **strongly recommended to test for yourself**.
+This repository will contains algorithms  implemented and collected for self-learning . Most of them are at least used once to check correctness, still it is **strongly recommended to test for yourself**.
 
 # Table of Contents
 1. [Dynamic Programming](#dp)
