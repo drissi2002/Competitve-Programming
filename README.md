@@ -19,8 +19,10 @@ This repository will contains algorithms  implemented and collected for self-lea
 - [Word-Break.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Word-Break.cpp)
 - [Distinct-subsequences--Distinct-occurrences.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Distinct-subsequences--Distinct-occurrences.cpp)
 - [Minimum-sum-partition.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Minimum-sum-partition.cpp)
-
-
+- [Count-number-of-hops.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Count-number-of-hops.cpp)
+- [Maximum-path-sum-in-matrix.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Maximum-path-sum-in-matrix.cpp)
+- [Optimal-Strategy-For-A-Game.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Optimal-Strategy-For-A-Game.cpp)
+- [Shortest-Common-Supersequence.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Shortest-Common-Supersequence.cpp)
 ## Graph <a name="graph"></a>
 
 - [Adjacency-List.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/Adjacency-List.cpp)
