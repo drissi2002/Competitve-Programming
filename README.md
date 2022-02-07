@@ -28,7 +28,7 @@ This repository will contains algorithms  implemented and collected for self-lea
 - [Adjacency-List.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/Adjacency-List.cpp)
 - [Adjacency-Matrix.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/Adjacency-Matrix.cpp)
 - [Edges-List.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/Edges-List.cpp)
-- [DFS--Depth-First-Search - Part-1.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/DFS.cpp)
+- [DFS--Depth-First-Search - Part-1.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/DFS--Depth-First-Search%20-%20Part-1.cpp)
 
 
 
