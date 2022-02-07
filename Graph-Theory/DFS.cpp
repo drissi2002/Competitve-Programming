@@ -1,4 +1,4 @@
-
+//Check if graph is connected -- path existence between two nodes
 const int n=1e5;
 vector<int>graph[n];
 bool visted[n];
@@ -16,4 +16,4 @@ int main()
     }
     return 0;
     
-    //Check if graph is connected -- path existence between two nodes
+    
