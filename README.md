@@ -30,6 +30,10 @@ This repository will contains algorithms  implemented and collected for self-lea
 - [Edges-List.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/Edges-List.cpp)
 - [DFS--Depth-First-Search - Part-1.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/DFS--Depth-First-Search%20-%20Part-1.cpp)
 - [DFS--Depth-First-Search - Part-2.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/DFS--Depth-First-Search-Part-2.cpp)
+- [BFS--Breadth-first-search - Part-1.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/BFS--Breadth-first-search%20-%20Part-1.cpp)
+- [BFS--Check-Bipartite-Graph-Part-2.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/BFS--Check-Bipartite-Graph-Part-2.cpp)
+- [Augmented-BFS-for-shortest-path.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/Graph-Theory/Augmented-BFS-for-shortest-path.cpp)
+
 
 
 
