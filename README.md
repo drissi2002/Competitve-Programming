@@ -6,6 +6,9 @@ This repository will contains algorithms  implemented and collected for self-lea
 1. [Dynamic Programming](#dp)
 2. [Graph](#graph)
 
+# Usefull Papers and Books
+- [Competitive-Programming-3.pdf](https://github.com/drissi2002/Competitve-Programming/tree/main/Usefull-Papers-Books)
+
 ## Dynamic Programming <a name="dp"></a>
 - [Fiboncci.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Fibonacci.cpp)
 - [Catalan.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Catalan.cpp)
