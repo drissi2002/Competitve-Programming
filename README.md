@@ -2,12 +2,13 @@
 
 This repository will contains algorithms  implemented and collected for self-learning . Most of them are at least used once to check correctness, still it is **strongly recommended to test for yourself**.
 
+# Usefull Papers and Books
+[Competitive-Programming-3.pdf](https://github.com/drissi2002/Competitve-Programming/tree/main/Usefull-Papers-Books)
 # Table of Contents
 1. [Dynamic Programming](#dp)
 2. [Graph](#graph)
 
-# Usefull Papers and Books
-- [Competitive-Programming-3.pdf](https://github.com/drissi2002/Competitve-Programming/tree/main/Usefull-Papers-Books)
+
 
 ## Dynamic Programming <a name="dp"></a>
 - [Fiboncci.cpp](https://github.com/drissi2002/Competitve-Programming/blob/main/DP/Fibonacci.cpp)
