@@ -9,6 +9,7 @@ This repository will contains algorithms  implemented and collected for self-lea
 3. [Graph](#graph)
 ## Contests <a name="cts"></a>
  [Facebook-HackerCup21](https://github.com/drissi2002/Competitve-Programming/tree/main/Facebook-HackerCup2021)
+ [Google-HashCode22](https://github.com/drissi2002/Competitve-Programming/tree/main/HashCode-22)
 
 
 ## Dynamic Programming <a name="dp"></a>
